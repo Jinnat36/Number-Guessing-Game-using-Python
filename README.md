@@ -23,3 +23,7 @@ This is a simple number guessing game implemented in Python. The computer random
 Enjoy playing the number guessing game!
 
 OUTPUT :--
+
+![Screenshot 2024-07-05 201259](https://github.com/Jinnat36/Number-Guessing-Game-using-Python/assets/157870456/6f10dcb9-f775-4869-bfbc-243e347137cc)
+![Screenshot 2024-07-05 201953](https://github.com/Jinnat36/Number-Guessing-Game-using-Python/assets/157870456/206e2b41-d748-4252-9397-0b9f5b416995)
+
