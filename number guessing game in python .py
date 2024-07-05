@@ -10,11 +10,11 @@ while 5>=t:
         print("YOU WIN")
         break
     elif user_input > random_number:
-        print(f"{user_input} is too high")
+        print(f"{user_input} is too high.Try Again!")
     elif user_input<random_number:
-        print(f"{user_input} is too low")
+        print(f"{user_input} is too low.Try Again!")
 else:
     print(f"You Finished chances.")
-    print("THANK YOU FOR PLAY :)")
+print("THANK YOU FOR PLAY :)")
         
     
